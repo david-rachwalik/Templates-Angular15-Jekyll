@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+# Jekyll and its required plugins
+gem 'jekyll', '4.2.0'
+gem 'jekyll-sitemap', '1.4.0'
+gem 'jekyll-feed', '0.16.0'
+gem 'jekyll-seo-tag', '2.7.1'
+
+# Markdown processing
+gem 'kramdown', '2.3.0'
+
+# Code highlighting
+gem 'rouge', '3.26.0'
